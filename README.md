@@ -16,4 +16,4 @@
   
 </div>
 
-![Snake animation](https://github.com/thainarastevanato/thainarastevanato/blob/output/github-contribution-grid-snake.svg)
+
