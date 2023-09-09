@@ -1,5 +1,7 @@
 ## Oiee! Eu sou a Thainara Stevanato! 👋
-- 🌱 I’m currently learning html, css and javascript
+- Student in Analysis and Systems Development
+- Basic knowledge in HTML, CSS, JavaScript, and Java
+- Strong understanding of programming logic and object-oriented programming
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Thai-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
